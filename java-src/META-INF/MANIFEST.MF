@@ -1,0 +1,2 @@
+Main-Class: cz.refresh.badminton.Distributor
+
